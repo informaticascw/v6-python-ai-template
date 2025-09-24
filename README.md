@@ -1,10 +1,14 @@
-# pygame opdracht
-Startcode voor het programmeren van een breakout game in python met het pygame package.
+# python opdracht
+Startcode voor het programmeren van opdrachten I2 en I3 uit de lesmethode Fundament.
 
 De startcode is onderdeel van de praktische opdracht python programmeren voor het vak informatica op het Stanislascollege Westplantsoen.<br>
 Meer informatie over de opdracht staat op https://stanislas.informatica.nu/ in het hoofdstuk Game.
 
-De aanbevolen ontwikkelomgeving is GitHub Codespaces, maar de code zou moeten draaien in elke ontwikkelomgeving met python en het pygame package.
+De aanbevolen ontwikkelomgeving is GitHub Codespaces, maar de code zou moeten draaien in elke ontwikkelomgeving met 
+- python 
+- het pygame package
+- de library voor ai (bke-1.4.1)
+- een grafische user interface 
 
 ## Start Codespaces
 - Login op GitHub
