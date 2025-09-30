@@ -11,6 +11,7 @@ De aanbevolen ontwikkelomgeving is GitHub Codespaces, maar de code zou moeten dr
 - een grafische user interface 
 
 ## Start Codespaces
+Als je ingeschreven hebt via github classroom, dan is dit al voor je gedaan.
 - Login op GitHub
 - Kies een repository
 - Klikken op de groene knop "Code" en dan op de tab "Codespace" en dan op de groen knop "Create codespace on main".
@@ -20,6 +21,9 @@ De aanbevolen ontwikkelomgeving is GitHub Codespaces, maar de code zou moeten dr
 - A) Activity Bar, klik op het bovenste icoon (Explorer) om je mappen en bestanden te zien, klik op het derde icoon (Source Control) van boven om te werken met GitHub
 - C) Editor Groups, hier verschijnen de bestanden die je opent.
 - D) Panel, hierin zit onder andere de Terminal. De terminal geeft toegang tot de virtuele computer, je kunt er commando's intypen.
+
+## Library installeren
+`pip install bke-1.4.1-py3-none-any.whl`
 
 ## Code uitvoeren
 Start het programma door in de terminal te typen<br>
