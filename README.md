@@ -1,8 +1,5 @@
-# python opdracht
+# python AI opdrachten
 Startcode voor het programmeren van opdrachten I2 en I3 uit de lesmethode Fundament.
-
-De startcode is onderdeel van de praktische opdracht python programmeren voor het vak informatica op het Stanislascollege Westplantsoen.<br>
-Meer informatie over de opdracht staat op https://stanislas.informatica.nu/ in het hoofdstuk Game.
 
 De aanbevolen ontwikkelomgeving is GitHub Codespaces, maar de code zou moeten draaien in elke ontwikkelomgeving met 
 - python 
@@ -23,6 +20,8 @@ Als je ingeschreven hebt via github classroom, dan is dit al voor je gedaan.
 - D) Panel, hierin zit onder andere de Terminal. De terminal geeft toegang tot de virtuele computer, je kunt er commando's intypen.
 
 ## Library installeren
+De library wordt automatisch geinstalleerd, als dat onverhoopt misgaat, dan kun je de library handmatig installeren door het volgende commando in te terminal te geven:
+
 `pip install bke-1.4.1-py3-none-any.whl`
 
 ## Code uitvoeren
@@ -36,11 +35,11 @@ Start het programma opnieuw met de toets<br>
 `[PIJL OMHOOG]`
 
 ## GUI openen
-De GUI opent automatisch in Simple Browser nadat de game is gestart.
+Na opstarten van de Codespace verschijnt een pop-up waarmee je de GUI kunt openen in een apart browser window. Als de popup niet verschijnt, of als je de GUI op een later moment wilt openen, dan kan dat als volgt:
 
 Als de GUI niet automatisch opent:<br>
-Klik op ports, klik bij port 6080 (GUI) op "Open in Browser" (wereldbol) of "Preview in Editor" (rechts van wereldbol)<br>
-Klik met je muis op de GUI om het toetsenbord aan je game te koppelen.
+- Klik op ports, klik bij port 6080 (GUI) op "Open in Browser" (wereldbol) of "Preview in Editor" (rechts van wereldbol)<br>
+- Klik met je muis op de GUI om het toetsenbord aan je game te koppelen.
 
 ## Code aanpassen
 - Dubbelklik op het bestand `main.py`. Het bestand wordt geopend in de editor.
